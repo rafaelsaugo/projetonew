@@ -1,3 +1,8 @@
 import UIKit
 
-var greeting = "Hello, playground"
+func imprimeNome (_ nome: String) {
+    print(nome)
+}
+
+var nome = "Rafael"
+
